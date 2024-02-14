@@ -10,7 +10,7 @@
 
 <h2>🛠️ Wie man den Bot addet:</h2>
 
-<p>1. Go to <a href="https://twitch.tv/lellolbot">twitch.tv/lellolBot</a></p>
+<p>1. Geh zu <a href="https://twitch.tv/lellolbot">twitch.tv/lellolBot</a></p>
 
 <p>2. Schreib +join in dem chat</p>
 
