@@ -18,6 +18,6 @@
 
 <p>4. Viel Spaß mit dem Bot! Wenn du den Bot removen willst kannst du +part im Channel vom Bot machen</p>
 
-<p>Commands sind hier <a href="https://github.com/lellolidk/lellolbot/wiki">wiki</a></p>
+<p>Commands sind hier <a href="https://lellolidk.github.com/">wiki</a></p>
 
 <h3>lellolBot source ist privat!</h3>
