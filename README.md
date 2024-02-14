@@ -6,8 +6,6 @@
 
 <div align="center">
 
-[![](https://dcbadge.vercel.app/api/server/tdU6SRUMpk?style=flat)](https://discord.gg/S8k6WByPAx)
-
 </div>
 
 <h2>🛠️ Wie man den Bot addet:</h2>
