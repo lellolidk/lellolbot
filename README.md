@@ -1,0 +1,2 @@
+# lellolbot
+Twitch Bot
